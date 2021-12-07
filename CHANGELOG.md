@@ -4,6 +4,7 @@ Changelog
 1.6.0
 -----
 
+* Test with PHP 8.1
 * Support Symfony 6
 * Drop support for Symfony 2.3
 
